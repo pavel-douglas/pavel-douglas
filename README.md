@@ -18,10 +18,6 @@ I'm a software engineer with a love for sleek UIs, smart architectures, and deve
 - Smart coding environments and playgrounds
 - Open-source projects where **DX** (Developer Experience) is king
 
-## 📫 Reach me at:
-- 📧 [email@example.com] *(replace with your real contact if you want)*
-- 💬 Ping me on Twitter [@yourhandle] or LinkedIn
-
 ## 😄 Pronouns:
 He/him
 
